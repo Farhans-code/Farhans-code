@@ -1,4 +1,4 @@
-### Hi there 👋
+#Hello 👋 and welcome to Farhans-code, an online portfollio collection of all my best codes. 
 
 <!--
 **Farhans-code/Farhans-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
