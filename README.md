@@ -1,5 +1,11 @@
-#Hello 👋 and welcome to Farhans-code, an online portfollio collection of all my best codes. 
 
+![cooltext455815123314763](https://github.com/Farhans-code/Farhans-code/assets/164001902/3cbb9348-4b39-4538-83ed-b1ad187ddd29)
+
+![image_6483441](https://github.com/Farhans-code/Farhans-code/assets/164001902/530efab1-45ee-47a1-94f4-ae8c930dd7dc)
+
+
+My name is Farhan 
+ 
 <!--
 **Farhans-code/Farhans-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
