@@ -8,8 +8,10 @@ My name is Farhan
 
 I am currently accelerating my coding skills on a Software Engineering Bootcamp - Debugging the world, one line at a time!
 
-I am currently working on software design, data structures and user defined functions. These will be available on my portfollio shortly - stay tuned and see you soon!
- 
+I am currently working on software design, data structures and user defined functions. These will be available on my portfollio shortly.
+
+![cooltext455816747927039](https://github.com/Farhans-code/Farhans-code/assets/164001902/bd450766-d0d9-4c68-918a-3ed24612ebe2)
+
 <!--
 **Farhans-code/Farhans-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
