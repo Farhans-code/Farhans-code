@@ -5,6 +5,10 @@
 
 
 My name is Farhan 
+
+I am currently accelerating my coding skills on a Software Engineering Bootcamp - Debugging the world, one line at a time!
+
+I am currently working on software design, data structures and user defined functions. These will be available on my portfollio shortly - stay tuned and see you soon!
  
 <!--
 **Farhans-code/Farhans-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
